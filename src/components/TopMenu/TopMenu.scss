@@ -1,0 +1,19 @@
+.top-menu {
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    svg {
+      width: 45px;
+      height: 45px;
+      margin-right: 20px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 20px;
+      color: white;
+    }
+  }
+}
